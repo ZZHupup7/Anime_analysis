@@ -3,7 +3,7 @@
 Analyze top anime from MyAnimeList: scrape, clean, and visualize their ratings and viewer statistics.
 
 ## Project Structure
-
+```
 anime_analysis/
 ├── data/
 │ ├── top_anime_detailed.csv
@@ -19,7 +19,7 @@ anime_analysis/
 │ └── analyze_visualize.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Setup
 1. Clone this repository:
