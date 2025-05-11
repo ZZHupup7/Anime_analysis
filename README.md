@@ -22,7 +22,6 @@ anime_analysis/
 
 
 ## Setup
-
 1. Clone this repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
@@ -34,6 +33,8 @@ python -m venv venv
 source venv/bin/activate
 # Windows
 venv\Scripts\activate
+
+
 
 3.Install dependencies:
 pip install -r requirements.txt
