@@ -25,9 +25,9 @@ anime_analysis/
 1. Clone this repository:
 
 
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
 
 2.Create and activate a virtual environment:
 python -m venv venv
